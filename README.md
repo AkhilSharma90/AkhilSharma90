@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkhilSharma90
-- 👀 I’m interested in golang, rust, nodejs, distributed systems, serverless
-- 🌱 I’m currently learning kafka, airflow and flutter
-- 💞️ I’m looking to collaborate on scraping and crawling  projects
-- 📫 How to reach me - akhilsails@gmail.com
+- 👀 A polyglot developer with more than 8 years industry experience in golang, rust, nodejs, ruby, python, dart, distributed systems, serverless
+- 🌱 I’m currently learning kafka, airflow, spark and flutter
+- 💞️ I’m looking to collaborate on projects that require working with big data, AI and ML.
+- 📫 How to reach me - akhil.sharma@myrl.tech
 
 <!---
 AkhilSharma90/AkhilSharma90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
