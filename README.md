@@ -2,7 +2,7 @@
 - 👀 A polyglot developer with more than 10 years industry experience in Golang, Rust, NodeJs, Ruby, Python, Dart, distributed systems, serverless & cloud technologies (AWS & GCP)
 - All the products I build, I ensure they're microservices (golang or nodejs) driven and use Kafka as a queue, deployed using Docker, Kubernetes, Terraform, Prometheus, Sentry and Jenkins (my favorite technologies in the world).
 - 🌱 I’m currently learning Apache Airflow, Spark, Cassandra, Hadoop and Flutter.
-- 💞️ I’m looking to collaborate on projects that require working with Big Data, AI and ML.
+- 💞️ I’m looking to collaborate on projects that require working with Big Data Engineering, AI and ML.
 - 📫 How to reach me - akhil.sharma@myrl.tech
 
 <!---
