@@ -1,5 +1,5 @@
-- 👋 I'm Akhil Sharma, AI and Security Researcher, Founder @ https://www.armur.ai (A.I. powered dev sec tooling platform) - Backed by Techstars, Outlier Ventures, Aptos, Mercury Raise and Google AI startups
-- 👀 A hyper-polyglot programmer with more than 10 years industry experience in Golang, Rust, Haskell, Eixir, NodeJs, Ruby, Python, Dart, distributed systems, blockchains and AI
+- 👋 I'm Akhil Sharma, AI and Security Researcher, Founder @ https://www.armur.ai (We build offensive security tooling) - Backed by Techstars, Outlier Ventures, Aptos, Mercury Raise and Google AI startups
+- 👀 A hyper-polyglot programmer with more than 10 years industry experience in Golang, Rust, Haskell, Eixir, NodeJs, Ruby, Python, Dart, distributed systems, blockchains and AI. I specialize in building production grade systems.
 - ✨ I teach for free on YoutTube - https://www.youtube.com/@AkhilSharmaTech
 - 📖 Author of the Book "Rust for Blockchain Engineering" with Packt Publishing
 - ❤️ Author of popular cybersecurity courses on LinkedIn Learning - https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents
